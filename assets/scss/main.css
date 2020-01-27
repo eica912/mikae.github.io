@@ -1,4 +1,4 @@
-@import url(/Users/mika/Downloads/html5up-phantom/assets/scss/fontawesome-all.min.css);
+@import url(/Users/mika.eida/Downloads/eica912.github.io-master/assets/scss/fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
 /*
 	Phantom by HTML5 UP
@@ -2994,6 +2994,10 @@ aside {
 
 .caption {
   margin: 2em 0 0 0;
+}
+
+.image-logo {
+  border: 1px solid #585858;
 }
 
 /* Footer */
