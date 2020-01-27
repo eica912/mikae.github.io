@@ -2974,6 +2974,10 @@ aside {
   margin: 0 0 0 30px;
 }
 
+.main__profile .profile__introduction h4 span {
+  display: block;
+}
+
 .main__profile .profile__skills {
   margin-top: 20px;
 }
