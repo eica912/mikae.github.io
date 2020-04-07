@@ -2534,7 +2534,7 @@ button:disabled,
   background-color: #585858;
 }
 
-.tiles article.style7 > .image:before {
+.tiles article.lp05 > .image:before {
   background-color: #585858;
 }
 
@@ -2555,10 +2555,6 @@ body:not(.is-touch) .tiles article:hover > .image:after {
 body:not(.is-touch) .tiles article:hover .content {
   max-height: 15em;
   opacity: 1;
-}
-
-* + .tiles {
-  margin-top: 2em;
 }
 
 body.is-preload .tiles article {
